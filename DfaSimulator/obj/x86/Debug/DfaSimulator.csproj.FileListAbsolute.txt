@@ -1,0 +1,10 @@
+c:\users\ferid\documents\visual studio 2010\Projects\DfaSimulator\DfaSimulator\bin\Debug\DfaSimulator.exe
+c:\users\ferid\documents\visual studio 2010\Projects\DfaSimulator\DfaSimulator\bin\Debug\DfaSimulator.pdb
+c:\users\ferid\documents\visual studio 2010\Projects\DfaSimulator\DfaSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ferid\documents\visual studio 2010\Projects\DfaSimulator\DfaSimulator\obj\x86\Debug\DfaSimulator.Form1.resources
+c:\users\ferid\documents\visual studio 2010\Projects\DfaSimulator\DfaSimulator\obj\x86\Debug\DfaSimulator.Properties.Resources.resources
+c:\users\ferid\documents\visual studio 2010\Projects\DfaSimulator\DfaSimulator\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ferid\documents\visual studio 2010\Projects\DfaSimulator\DfaSimulator\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ferid\documents\visual studio 2010\Projects\DfaSimulator\DfaSimulator\obj\x86\Debug\DfaSimulator.exe
+c:\users\ferid\documents\visual studio 2010\Projects\DfaSimulator\DfaSimulator\obj\x86\Debug\DfaSimulator.pdb
+C:\Users\ferid\Documents\Visual Studio 2010\Projects\DfaSimulator\DfaSimulator\obj\x86\Debug\DfaSimulator.DfaCizim.resources
